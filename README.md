@@ -33,8 +33,6 @@ Interested in AI & Recommendation Systems
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Hyemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeals2\&show_icons=true\&theme=dracula\&hide_border=true)
+![Hyemin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hyeals2\&show_icons=true\&theme=dracula\&hide_border=true)
 
 </div>
